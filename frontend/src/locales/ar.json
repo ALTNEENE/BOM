@@ -1,0 +1,90 @@
+{
+  "sidebar": {
+    "dashboard": "لوحة التحكم",
+    "projects": "المشاريع",
+    "my_tasks": "مهماتي",
+    "teams": "الفرق",
+    "notifications": "الإشعارات",
+    "profile": "الملف الشخصي",
+    "admin": "إدارة النظام",
+    "users": "المستخدمين",
+    "user_menu": "قائمة المستخدم",
+    "sign_out": "تسجيل الخروج"
+  },
+  "header": {
+    "search_placeholder": "البحث في مساحة العمل...",
+    "change_language": "English"
+  },
+  "badges": {
+    "todo": "للقيام بها",
+    "in_progress": "قيد التنفيذ",
+    "review": "قيد المراجعة",
+    "completed": "مكتمل",
+    "blocked": "محجوب",
+    "planning": "قيد التخطيط",
+    "active": "نشط",
+    "on_hold": "معلّق",
+    "cancelled": "ملغي",
+    "low": "منخفض",
+    "medium": "متوسط",
+    "high": "عالٍ",
+    "urgent": "عاجل",
+    "critical": "حرج"
+  },
+  "dashboard": {
+    "greetings": {
+      "morning": "صباح الخير",
+      "afternoon": "طاب مسائك",
+      "evening": "مساء الخير"
+    },
+    "welcome_text": "إليك ما يحدث في مشاريعك اليوم.",
+    "stats": {
+      "active_projects": "المشاريع النشطة",
+      "in_progress": "قيد التنفيذ",
+      "to_do": "للقيام بها",
+      "overdue": "متأخرة"
+    },
+    "kpi": {
+      "avg_completion": "متوسط إكمال المهام",
+      "task_time": "كفاءة الوقت",
+      "productivity": "إنتاجية الفريق",
+      "days": "{{count}} أيام",
+      "hours": "{{count}} ساعة",
+      "estimated": "مقابل المحسوب",
+      "score": "نقطة",
+      "tasks_closed": "المهام المنجزة في الوقت المحدد",
+      "optimized_speeds": "سرعة محسّنة"
+    },
+    "summary_total": "{{count}} إجمالي",
+    "summary_overall": "{{count}} إجمالي",
+    "project_status": {
+      "title": "حالة المشاريع",
+      "planning": "قيد التخطيط",
+      "active": "نشط",
+      "on_hold": "معلّق",
+      "completed": "مكتمل",
+      "cancelled": "ملغي"
+    },
+    "task_status": {
+      "title": "حالة المهام",
+      "overall": "إجمالي المهام",
+      "todo": "للقيام بها",
+      "in_progress": "قيد التنفيذ",
+      "review": "قيد المراجعة",
+      "completed": "مكتملة",
+      "blocked": "محجوبة",
+      "overdue": "متأخرة"
+    },
+    "recent_projects": "المشاريع الأخيرة",
+    "view_all": "عرض الكل ←",
+    "no_projects": "لا توجد مشاريع بعد",
+    "create_project": "إنشاء مشروع",
+    "members": "أعضاء",
+    "complete": "مكتمل",
+    "my_active_tasks": "مهامي النشطة",
+    "no_tasks": "🎉 لا توجد مهام نشطة. لقد أنجزت كل شيء!",
+    "due": "مستحق {{date}}",
+    "recent_activity": "النشاط الأخير",
+    "no_notifications": "🔔 لا توجد إشعارات حتى الآن"
+  }
+}

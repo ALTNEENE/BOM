@@ -1,0 +1,90 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "projects": "Projects",
+    "my_tasks": "My Tasks",
+    "teams": "Teams",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "admin": "Admin",
+    "users": "Users",
+    "user_menu": "User Menu",
+    "sign_out": "Sign Out"
+  },
+  "header": {
+    "search_placeholder": "Search across workspace...",
+    "change_language": "عربي"
+  },
+  "badges": {
+    "todo": "To Do",
+    "in_progress": "In Progress",
+    "review": "Review",
+    "completed": "Completed",
+    "blocked": "Blocked",
+    "planning": "Planning",
+    "active": "Active",
+    "on_hold": "On-hold",
+    "cancelled": "Cancelled",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "urgent": "Urgent",
+    "critical": "Critical"
+  },
+  "dashboard": {
+    "greetings": {
+      "morning": "Good morning",
+      "afternoon": "Good afternoon",
+      "evening": "Good evening"
+    },
+    "welcome_text": "Here's what's happening across your projects today.",
+    "stats": {
+      "active_projects": "Active Projects",
+      "in_progress": "In Progress",
+      "to_do": "To Do",
+      "overdue": "Overdue"
+    },
+    "kpi": {
+      "avg_completion": "Avg Task Completion",
+      "task_time": "Time Efficiency",
+      "productivity": "Team Productivity",
+      "days": "{{count}} days",
+      "hours": "{{count}} hrs",
+      "estimated": "vs Est.",
+      "score": "Score",
+      "tasks_closed": "Tasks finished on time",
+      "optimized_speeds": "Optimized speeds"
+    },
+    "summary_total": "{{count}} total",
+    "summary_overall": "{{count}} overall",
+    "project_status": {
+      "title": "Project Status",
+      "planning": "Planning",
+      "active": "Active",
+      "on_hold": "On-hold",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "task_status": {
+      "title": "Task Status",
+      "overall": "Overall Tasks",
+      "todo": "To Do",
+      "in_progress": "In Progress",
+      "review": "Review",
+      "completed": "Completed",
+      "blocked": "Blocked",
+      "overdue": "Overdue"
+    },
+    "recent_projects": "Recent Projects",
+    "view_all": "View all →",
+    "no_projects": "No projects yet",
+    "create_project": "Create Project",
+    "members": "members",
+    "complete": "complete",
+    "my_active_tasks": "My Active Tasks",
+    "no_tasks": "🎉 No active tasks. You're all caught up!",
+    "due": "Due {{date}}",
+    "recent_activity": "Recent Activity",
+    "no_notifications": "🔔 No notifications yet"
+  }
+}
