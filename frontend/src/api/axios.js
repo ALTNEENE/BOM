@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || 'https://bom-backend.vercel.app';
+const ENV_BASE = import.meta.env.VITE_API_BASE_URL || '/api';
+const API_BASE = ENV_BASE.endsWith('/v1') ? ENV_BASE : `${ENV_BASE}/v1`;
 
 const api = axios.create({
   baseURL: API_BASE,
